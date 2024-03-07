@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+ overflow-x: hidden;
+ overflow-y: hidden;
+  background-color: rgba(195,116,86);
+}
+
+#Navbar{
+  background-color: #1d2a10a2;
+  width: 100dwh;
+  justify-content: center;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+
+}
+#navText{
+  margin-top: 0.5rem;
+  background-color: transparent;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#C{
+width: 100dvw;
+justify-content: center;
+align-items: center;
+display: flex;
+height: 27dvh;
+background-color: transparent;
+}
+#Time{
+  background-color: transparent;
+  color: wheat;
+  font-size: 2.5rem;
+  font-weight: bolder;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#LC{
+  background-color: transparent;
+  width: 100dvw;
+  height: 30dvw;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 35dvh;
+  }
+  #LTime{
+    background-color: transparent;
+    color: wheat;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .mim{
+    background-color: transparent;
+  }
+ #mtext{
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
